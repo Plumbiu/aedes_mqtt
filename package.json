@@ -1,0 +1,11 @@
+{
+  "name": "adedes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Plumbiu/aedes_mqtt.git",
+  "author": "Plumbiu <99574369+Plumbiu@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aedes": "^0.48.1"
+  }
+}
